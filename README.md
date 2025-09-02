@@ -7,7 +7,9 @@ This repository contains the completed take-home assessment for the Full-Stack D
 
 A short video demonstrating the application's features and user flow.
 
-**[➡️ Watch the Demo Video Here](https://[YOUR_VIDEO_LINK_HERE])**
+**[➡️ Watch the Demo Video Here](https://drive.google.com/file/d/1jB9yEXjhe-wML_taWJtjFr-n2fuWs-ST/view?usp=sharing)**
+
+**[➡️ See Figma File](https://github.com/Ardinenukuri/Expo-app)**
 
 | Class Overview Screen | Student Detail Screen (with Download button) |
 | :-------------------: | :-----------------------: |
