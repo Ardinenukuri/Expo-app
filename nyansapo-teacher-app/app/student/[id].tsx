@@ -1,5 +1,3 @@
-// frontend/app/student/[id].tsx
-
 import React from 'react';
 import { Text, StyleSheet, ScrollView, View, ActivityIndicator, TouchableOpacity, Alert } from 'react-native';
 import { useLocalSearchParams, Stack } from 'expo-router';
