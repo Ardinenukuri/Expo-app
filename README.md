@@ -11,7 +11,7 @@ A short video demonstrating the application's features and user flow.
 
 | Class Overview Screen | Student Detail Screen (with Download button) |
 | :-------------------: | :-----------------------: |
-| ![Class Overview](https://[YOUR_SCREENSHOT_URL_HERE_1].png) | ![Student Detail](https://[YOUR_SCREENSHOT_URL_HERE_2].png) |
+| ![Class Overview](https://github.com/Ardinenukuri/Expo-app/blob/main/Screenshoots/class%20Overview.png) | ![Student Detail](https://[YOUR_SCREENSHOT_URL_HERE_2].png) |
 
 ---
 
