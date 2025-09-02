@@ -109,12 +109,5 @@ My design philosophy for this project was centered on **clarity, accessibility, 
 -   **Linking Strand Data:** I made a logical assumption that the human-readable strand name (e.g., "Letter Identification") directly corresponds to the camelCase key in the student performance object (e.g., `letterIdentification`). The `getStrandKeyFromName` utility was built based on this assumption.
 -   **Development Environment:** The setup instructions assume a local development environment with Node.js installed and access to `npm`.
 
-## 🌟 Future Enhancements
-
-Given more time, I would love to explore these enhancements to further align with Nyansapo AI's mission:
-
--   **Offline-First Capability:** For teachers in areas with unreliable internet, I would implement an offline-first strategy using AsyncStorage caching or a more robust solution like WatermelonDB. The app would work seamlessly offline and sync data when a connection is restored.
--   **Accessibility (a11y):** I would conduct a full accessibility audit, ensuring all components are compatible with screen readers and support dynamic font sizes for visually impaired users.
--   **Localization (i18n):** To prepare the app for scaling across East Africa, I would centralize all user-facing strings and implement a localization library to support multiple languages, such as Swahili.
 
 
