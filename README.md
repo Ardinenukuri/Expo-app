@@ -1,7 +1,4 @@
 
----
-
-```markdown
 # Nyansapo AI - Full-Stack Developer Take-Home Assessment
 
 This repository contains the completed take-home assessment for the Full-Stack Developer role at Nyansapo AI. The project is a React Native (Expo) mobile application designed to help teachers view student performance across different learning strands, aligning with Nyansapo AI's mission to empower educators through technology.
