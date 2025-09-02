@@ -9,7 +9,7 @@ A short video demonstrating the application's features and user flow.
 
 **[➡️ Watch the Demo Video Here](https://drive.google.com/file/d/1jB9yEXjhe-wML_taWJtjFr-n2fuWs-ST/view?usp=sharing)**
 
-**[➡️ See Figma File](https://github.com/Ardinenukuri/Expo-app)**
+**[➡️ See Figma File](https://www.figma.com/design/f2yHK2MYA05hX6VmLiaax8/Teacher---ExPo-app?node-id=0-1&t=hPskmwmBOhCUHOc1-1 )**
 
 | Class Overview Screen | Student Detail Screen (with Download button) |
 | :-------------------: | :-----------------------: |
