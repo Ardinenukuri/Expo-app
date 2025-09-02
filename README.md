@@ -117,4 +117,4 @@ Given more time, I would love to explore these enhancements to further align wit
 -   **Accessibility (a11y):** I would conduct a full accessibility audit, ensuring all components are compatible with screen readers and support dynamic font sizes for visually impaired users.
 -   **Localization (i18n):** To prepare the app for scaling across East Africa, I would centralize all user-facing strings and implement a localization library to support multiple languages, such as Swahili.
 
-```
+
